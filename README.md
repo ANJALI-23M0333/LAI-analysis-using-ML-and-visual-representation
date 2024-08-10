@@ -10,3 +10,31 @@ LAI predection - Linear Regression, Random forest and Decision Tree
 Analysis - MySQL
 Visual Representaion of Data - PowerBI
 WebApp - Streamlit
+
+**Conclusion:**
+
+Based on the analysis presented in the figures and data, the following general conclusions can be drawn regarding the growth and development of corn from November 21, 2018, to January 25, 2019:
+
+Growth Stages and LAI Dynamics:
+
+The Leaf Area Index (LAI) shows a clear trend corresponding to the different growth stages of corn. During the vegetative stage, LAI increases as the plant focuses on leaf and stem growth, enhancing photosynthesis and ground coverage.
+As the corn transitions into the reproductive stage, the LAI begins to decline after reaching its peak around January 7, 2019. This decline is attributed to the redirection of resources towards reproductive processes like flowering and kernel formation, leading to the senescence of older leaves.
+Green Canopy Cover (GCC) Trends:
+
+GCC follows a similar pattern, initially increasing as the corn develops but eventually stabilizing and then decreasing as the plant moves towards maturity. The decrease in GCC is associated with the senescence of the green canopy as the plant shifts its focus from vegetative growth to reproductive maturity.
+Height and LAI Interrelation:
+
+The changes in LAI are also influenced by changes in plant height, with a noticeable impact during different growth stages. This relationship is reflected in the plotted data, where LAI increases initially with Days After Sowing (DAS) but declines after a certain point.
+Temporal Analysis:
+
+Temporal analysis of LAI indicates that the maximum leaf area is achieved before January 25, 2019, after which a steady decline is observed, signaling the progression towards crop maturity and eventual harvest.
+Similarly, the temporal leaf angle shows an increasing trend up to the maturity stage, after which it decreases, aligning with the overall decline in vegetative growth.
+VLADF vs. LAI:
+
+The Vertical Leaf Area Density Function (VLADF) plotted against LAI for different dates shows a decreasing trend in LAI, which aligns with the observations from the other figures. The linear relationship observed between VLADF and LAI further supports the conclusion that as the crop matures, the leaf area decreases.
+Overall Crop Performance:
+
+The analysis highlights that the crop reaches its peak vegetative growth around January 7, 2019, after which the focus shifts to reproductive growth, leading to a decline in LAI, GCC, and other related metrics. This pattern is consistent across the different plots and figures, indicating the typical growth cycle of corn in the study area.
+These conclusions provide insights into the growth dynamics of corn and how key parameters like LAI, GCC, and plant height evolve during different stages of crop development.
+
+
